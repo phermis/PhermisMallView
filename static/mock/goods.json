@@ -1,0 +1,16 @@
+{
+    "success": true,
+    "message": "success",
+    "code": 200,
+    "timestamp": 1555429219241,
+    "result": {
+        "productId": 150642571432851,
+        "salePrice": 0,
+        "productName": "",
+        "subTitle": "限时促销",
+        "limitNum": 100,
+        "productImageBig": "https://resource.smartisan.com/resource/7ac3af5a92ad791c2b38bfe1e38ee334.jpg",
+        "detail": "<img src='https: //resource.smartisan.com/resource/a1f3fbf662376e8684e528f05721b286.jpg' style='width:1220px;height:14998px;' alt='' />", 
+        "productImageSmall": []
+    }
+}
